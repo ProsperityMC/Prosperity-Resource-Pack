@@ -1,0 +1,79 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/totem_of_undying"
+    },
+    "overrides": [{
+            "predicate": {
+                "custom_model_data": 94560
+            },
+            "model": "item/custom/axolotl_of_undying"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94561
+            },
+            "model": "item/custom/book_of_undying"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94562
+            },
+            "model": "item/custom/carbon_totem_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94563
+            },
+            "model": "item/custom/carbon_totem_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94564
+            },
+            "model": "item/custom/diamond_netherite_totem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94565
+            },
+            "model": "item/custom/gold_netherite_totem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94566
+            },
+            "model": "item/custom/fancy_totem_of_undying"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94567
+            },
+            "model": "item/custom/flower_of_undying"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94568
+            },
+            "model": "item/custom/potion_of_undying"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94569
+            },
+            "model": "item/custom/retro_totem_of_undying"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 945610
+            },
+            "model": "item/custom/small_totem_of_undying"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 945611
+            },
+            "model": "item/custom/totem_of_redstone"
+        }
+    ]
+}
