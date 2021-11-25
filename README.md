@@ -1,6 +1,7 @@
 # Prosperity Resource Pack
 
 [![Discord](https://img.shields.io/discord/844449121376534558?color=%235865F2&label=discord&logo=discord&logoColor=white)](https://discord.gg/hfTxZ4XxYj)
+![Size](https://img.shields.io/github/repo-size/prosperitymc/prosperity-resource-pack?color=green&label=size)
 
 Resource pack for the Prosperity server. The goal of this pack is to give players the ability to create vanilla item variations that can be applied through the server resource pack.
 
