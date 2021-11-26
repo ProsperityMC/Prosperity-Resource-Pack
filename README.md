@@ -21,7 +21,7 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Totem of Undying  | Axolotl of Undying        | `94560`  |
 | Totem of Undying  | Book of Undyinbg          | `94561`  |
 | Totem of Undying  | Carbon Totem              | `94562`  |
-| Totem of Undying  | Carbon Totem Alternate    | `94563`  |
+| Totem of Undying  | Carbon Totem (Nether)     | `94563`  |
 | Totem of Undying  | Netherite Totem (Diamond) | `94564`  |
 | Totem of Undying  | Netherite Totem (Gold)    | `94565`  |
 | Totem of Undying  | Fancy Totem of Undying    | `94566`  |
