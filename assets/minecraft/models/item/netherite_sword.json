@@ -9,6 +9,12 @@
                 "custom_model_data": 21400
             },
             "model": "item/custom/red_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21401
+            },
+            "model": "item/custom/amethyest_encrusted_sword"
         }
     ]
 }
