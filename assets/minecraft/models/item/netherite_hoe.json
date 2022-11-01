@@ -1,14 +1,1 @@
-{
-    "parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "minecraft:item/netherite_hoe"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 65400
-            },
-            "model": "item/custom/amethyest_encrusted_hoe"
-        }
-    ]
-}
+{"parent": "minecraft:item/handheld","textures": {"layer0": "minecraft:item/netherite_hoe"},"overrides": [{"predicate": {"custom_model_data": 65400},"model": "item/custom/amethyest_encrusted_hoe"},{"predicate": {"custom_model_data": 65401},"model": "item/grimdark/grimdark_netherite_hoe"},{"predicate": {"custom_model_data": 65402},"model": "item/grimdark/netherite_handscythe"},{"predicate": {"custom_model_data": 65403},"model": "item/grimdark/netherite_scythe"},{"predicate": {"custom_model_data": 65404},"model": "item/grimdark/netherite_kama"},{"predicate": {"custom_model_data": 65405},"model": "item/grimdark/netherite_sickle"},{"predicate": {"custom_model_data": 65406},"model": "item/moozaur/melon_hoe"}]}
