@@ -1,1 +1,1 @@
-{"parent": "minecraft:item/handheld","textures": {"layer0": "minecraft:grimdark/netherite_sickle"}}
+{"parent": "minecraft:item/handheld","textures": {"layer0": "minecraft:item/grimdark/netherite_sickle"}}
