@@ -1,13 +1,10 @@
 # Prosperity Resource Pack
 
-[![Discord](https://img.shields.io/discord/844449121376534558?color=%235865F2&label=discord&logo=discord&logoColor=white)](https://discord.gg/hfTxZ4XxYj)
-![Size](https://img.shields.io/github/repo-size/prosperitymc/prosperity-resource-pack?color=green&label=size)
-
-Resource pack for the Prosperity server. The goal of this pack is to give players the ability to create vanilla item variations that can be applied through the server resource pack.
+Resource pack for the Prosperity server, adopted with permission for use on the NicoIsLost SMP. The goal of this pack is to give players the ability to create vanilla item variations that can be applied through the server resource pack.
 
 ## Use
 
-Download the resource pack from the [releases](https://github.com/L0rne/Prosperity-Resource-Pack-NIL-SMP-Fork/releases).S
+Download the resource pack from the [releases](https://github.com/L0rne/Prosperity-Resource-Pack-NIL-SMP-Fork/releases).
 
 You can also build manually or with [ResourcePacker](https://github.com/nixinova/resourcepacker) by running `rpkr pack` in the terminal.
 
