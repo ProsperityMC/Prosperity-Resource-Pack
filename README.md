@@ -171,6 +171,9 @@ Unfortunately the `CustomModelData` feature is quite limited and can only be app
 
 [Carved Melon](https://www.planetminecraft.com/texture-pack/carved-melon-optifine-required/)
 
+[Steampunk Goggles](https://www.planetminecraft.com/texture-pack/steampunk-goggles-custom-3d-cosmetic-texture-pack/)
+
+
 ### Weapons and Tools From
 
 [Kal's Grimdark Tools](https://www.planetminecraft.com/texture-pack/grimdark-tools/)
