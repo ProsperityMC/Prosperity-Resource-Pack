@@ -91,7 +91,7 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Carved Pumpkin    | Bowler Hat 1                | `96500`  |
 | Carved Pumpkin    | Bowler Hat 2                | `96501`  |
 | Carved Pumpkin    | Bowler Hat 3                | `96502`  |
-| Carved Pumpkin    | Bowler Hat 4                | `96503`  |
+| Carved Pumpkin    | Wide Brim Hat               | `96503`  |
 | Carved Pumpkin    | Beret                       | `96504`  |
 | Carved Pumpkin    | Straw Hat                   | `96505`  |
 | Carved Pumpkin    | Top Hat                     | `96506`  |
