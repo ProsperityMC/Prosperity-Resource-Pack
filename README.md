@@ -32,6 +32,7 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Netherite Sword   | Netherite Broadsword        | `21413`  |
 | Netherite Sword   | Netherite Dagger            | `21414`  |
 | Netherite Sword   | Melon Sword                 | `21415`  |
+| Netherite Sword   | Polymath Wrench             | `88807`  |
 | Bow               | Water Bow                   | `25500`  |
 | Bow               | End Bow                     | `25501`  |
 | Bow               | Fire Bow                    | `25502`  |
@@ -66,6 +67,8 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Netherite Pickaxe | Netherite Mattock           | `88803`  |
 | Netherite Pickaxe | Netherite Sledge            | `88804`  |
 | Netherite Pickaxe | Melon Pickaxe               | `88805`  |
+| Netherite Pickaxe | Armadillo Drill             | `88806`  |
+| Netherite Pickaxe | Polymath Wrench             | `88807`  |
 | Netherite Axe     | Amethyest Encrusted Axe     | `95500`  |
 | Netherite Axe     | Grimdark Netherite Axe      | `95501`  |
 | Netherite Axe     | Netherite Battleaxe         | `95502`  |
@@ -73,6 +76,7 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Netherite Axe     | Netherite Hatchet           | `95504`  |
 | Netherite Axe     | Netherite Ono               | `95505`  |
 | Netherite Axe     | Melon Axe                   | `95506`  |
+| Netherite Axe     | Gear Axe                    | `95506`  |
 | Totem of Undying  | Axolotl of Undying          | `94560`  |
 | Totem of Undying  | Book of Undyinbg            | `94561`  |
 | Totem of Undying  | Carbon Totem                | `94562`  |
@@ -139,6 +143,8 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Carved Pumpkin    | Van Helsing                 | `96557`  |
 | Carved Pumpkin    | Wither Skull Hat            | `96558`  |
 | Carved Pumpkin    | Zombie Horse Hood           | `96559`  |
+| Carved Pumpkin    | Carved Melon                | `96560`  |
+| Carved Pumpkin    | Steampunk Goggles           | `96561`  |
 
 ## Contribute
 
@@ -173,4 +179,11 @@ Unfortunately the `CustomModelData` feature is quite limited and can only be app
 
 [MelonPack](https://www.curseforge.com/minecraft/texture-packs/melonpack)
 
-[Clockwork bow](https://www.curseforge.com/minecraft/texture-packs/clockwork-bow)
+[Clockwork Bow](https://www.curseforge.com/minecraft/texture-packs/clockwork-bow)
+
+[Gear Axe](https://www.planetminecraft.com/texture-pack/gear-axe-custom-3d-tool-and-weapon-texture-pack/)
+
+[Armadillo Drill](https://www.planetminecraft.com/texture-pack/armadillo-drill-custom-animated-3d-tool-texture-pack/)
+
+[Polymath Wrench](https://www.planetminecraft.com/texture-pack/polymath-wrench-custom-3d-item-texture-pack/)
+
