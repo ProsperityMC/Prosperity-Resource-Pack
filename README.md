@@ -38,6 +38,15 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Bow               | Nether Bow                  | `25503`  |
 | Bow               | Melon Bow                   | `25504`  |
 | Bow               | Mechanical Bow              | `25505`  |
+| Bow               | Diamond Bow            	  | `25506`  |
+| Bow               | Golden Bow                  | `25507`  |
+| Bow               | Greatbow		              | `25508`  |
+| Bow               | Iron Bow		              | `25509`  |
+| Bow               | Netherite Bow		          | `25510`  |
+| Bow               | Recurve Bow		          | `25511`  |
+| Bow               | Shortbow			          | `25512`  |
+| Bow               | Stone Bow		        	  | `25513`  |
+| Bow               | Yumi				          | `25514`  |
 | Netherite Shovel  | Amethyest Encrusted Shovel  | `59300`  |
 | Netherite Shovel  | Grimdark Netherite Shovel   | `59301`  |
 | Netherite Shovel  | Netherite Pitchfork         | `59302`  |
