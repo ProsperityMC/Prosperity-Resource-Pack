@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "generated",
 	"textures": {
-		"0": "./yumi",
-		"particle": "./yumi"
+		"0": "minecraft:item/grimdark/bow/yumi",
+		"particle": "minecraft:item/grimdark/bow/yumi"
 	},
 	"elements": [
 		{

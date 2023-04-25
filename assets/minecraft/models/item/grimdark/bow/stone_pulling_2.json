@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./stone_pulling_2",
-		"particle": "./stone_pulling_2"
+		"0": "minecraft:item/grimdark/bow/stone_pulling_2",
+		"particle": "minecraft:item/grimdark/bow/stone_pulling_2"
 	},
 	"elements": [
 		{

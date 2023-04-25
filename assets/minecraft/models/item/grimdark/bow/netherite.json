@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "generated",
 	"textures": {
-		"0": "./netherite",
-		"particle": "./netherite"
+		"0": "minecraft:item/grimdark/bow/netherite",
+		"particle": "minecraft:item/grimdark/bow/netherite"
 	},
 	"elements": [
 		{

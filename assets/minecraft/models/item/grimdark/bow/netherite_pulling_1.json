@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./netherite_pulling_1",
-		"particle": "./netherite_pulling_1"
+		"0": "minecraft:item/grimdark/bow/netherite_pulling_1",
+		"particle": "minecraft:item/grimdark/bow/netherite_pulling_1"
 	},
 	"elements": [
 		{

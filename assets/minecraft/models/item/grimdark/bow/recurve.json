@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "generated",
 	"textures": {
-		"0": "./recurve",
-		"particle": "./recurve"
+		"0": "minecraft:item/grimdark/bow/recurve",
+		"particle": "minecraft:item/grimdark/bow/recurve"
 	},
 	"elements": [
 		{

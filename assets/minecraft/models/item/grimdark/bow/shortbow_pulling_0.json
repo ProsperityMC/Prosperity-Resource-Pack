@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./shortbow_pulling_0",
-		"particle": "./shortbow_pulling_0"
+		"0": "minecraft:item/grimdark/bow/shortbow_pulling_0",
+		"particle": "minecraft:item/grimdark/bow/shortbow_pulling_0"
 	},
 	"elements": [
 		{

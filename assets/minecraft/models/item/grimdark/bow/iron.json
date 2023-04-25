@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "generated",
 	"textures": {
-		"0": "./iron",
-		"particle": "./iron"
+		"0": "minecraft:item/grimdark/bow/iron",
+		"particle": "minecraft:item/grimdark/bow/iron"
 	},
 	"elements": [
 		{

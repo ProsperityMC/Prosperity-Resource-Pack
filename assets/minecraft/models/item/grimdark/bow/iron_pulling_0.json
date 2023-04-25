@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "iron",
 	"textures": {
-		"0": "./iron_pulling_0",
-		"particle": "./iron_pulling_0"
+		"0": "minecraft:item/grimdark/bow/iron_pulling_0",
+		"particle": "minecraft:item/grimdark/bow/iron_pulling_0"
 	},
 	"elements": [
 		{

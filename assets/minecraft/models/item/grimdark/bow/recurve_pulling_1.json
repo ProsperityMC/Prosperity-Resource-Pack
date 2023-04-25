@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "recurve",
 	"textures": {
-		"0": "./recurve_pulling_1",
-		"particle": "./recurve_pulling_1"
+		"0": "minecraft:item/grimdark/bow/recurve_pulling_1",
+		"particle": "minecraft:item/grimdark/bow/recurve_pulling_1"
 	},
 	"elements": [
 		{
