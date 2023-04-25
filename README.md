@@ -7,7 +7,7 @@ Resource pack for the Prosperity server. The goal of this pack is to give player
 
 ## Use
 
-Download the resource pack from the [releases](https://github.com/ProsperityMC/Prosperity-Resource-Pack/releases).
+Download the resource pack from the [releases](https://github.com/L0rne/Prosperity-Resource-Pack-NIL-SMP-Fork/releases).S
 
 You can also build manually or with [ResourcePacker](https://github.com/nixinova/resourcepacker) by running `rpkr pack` in the terminal.
 
