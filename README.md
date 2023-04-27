@@ -142,6 +142,7 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Carved Pumpkin    | Zombie Horse Hood           | `96559`  |
 | Carved Pumpkin    | Carved Melon                | `96560`  |
 | Carved Pumpkin    | Steampunk Goggles           | `96561`  |
+| Carved Pumpkin    | Servo Skull                 | `96562`  |
 
 ## Contribute
 
@@ -169,6 +170,10 @@ Unfortunately the `CustomModelData` feature is quite limited and can only be app
 [Carved Melon](https://www.planetminecraft.com/texture-pack/carved-melon-optifine-required/)
 
 [Steampunk Goggles](https://www.planetminecraft.com/texture-pack/steampunk-goggles-custom-3d-cosmetic-texture-pack/)
+
+[Servo Skull Texture](https://www.planetminecraft.com/mob-skin/servo-skull/)
+
+
 
 
 ### Weapons and Tools From
