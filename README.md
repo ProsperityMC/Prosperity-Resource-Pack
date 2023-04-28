@@ -30,6 +30,7 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Netherite Sword   | Netherite Dagger            | `21414`  |
 | Netherite Sword   | Melon Sword                 | `21415`  |
 | Netherite Sword   | Polymath Wrench             | `88807`  |
+| Netherite Sword   | Letswin65ben's Sword        | `88808`  |
 | Bow               | Water Bow                   | `25500`  |
 | Bow               | End Bow                     | `25501`  |
 | Bow               | Fire Bow                    | `25502`  |
