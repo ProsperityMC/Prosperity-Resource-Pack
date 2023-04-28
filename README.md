@@ -144,6 +144,7 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Carved Pumpkin    | Carved Melon                | `96560`  |
 | Carved Pumpkin    | Steampunk Goggles           | `96561`  |
 | Carved Pumpkin    | Servo Skull                 | `96562`  |
+| Carved Pumpkin    | Iron Servitor               | `96563`  |
 
 ## Contribute
 

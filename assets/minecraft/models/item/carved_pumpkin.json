@@ -339,6 +339,12 @@
             "custom_model_data":96562
          },
          "model":"item/l0rn3/servo_skull"
+      },
+      {
+         "predicate":{
+            "custom_model_data":96563
+         },
+         "model":"item/l0rn3/iron_servitor"
       }
    ]
 }
