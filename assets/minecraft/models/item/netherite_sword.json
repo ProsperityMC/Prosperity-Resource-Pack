@@ -96,13 +96,13 @@
       },
       {
          "predicate":{
-            "custom_model_data":88807
+            "custom_model_data":21416
          },
          "model":"item/overgrown/polymath_wrench"
       },
       {
          "predicate":{
-            "custom_model_data":21416
+            "custom_model_data":21417
          },
          "model":"item/letswin65ben/letswin65ben_sword"
       }
