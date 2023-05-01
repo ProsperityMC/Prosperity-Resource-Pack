@@ -165,7 +165,27 @@ There are also some items that can be obtained by renaming a vanilla item at an 
 | Elytra    		| Dragonfly Elytra	          | `dragonfly`   |
 | Elytra    		| Ender Dragon Wings	      | `ender`   	  |
 | Elytra    		| Ladybug Elytra	      	  | `ladybug`     |
-| Elytra    		| Vex Elytra	      	  	  | `vex`     |
+| Elytra    		| Vex Elytra	      	  	  | `vex`     	  |
+| Netherite Armor   | Grimdark Heavy Variant	  | `heavy`    	  |
+| Netherite Armor   | Grimdark Hidden Variant	  | `hidden`   	  |
+| Netherite Armor   | Grimdark Light Variant	  | `light`   	  |
+| Netherite Armor   | Grimdark Medium Variant	  | `medium`   	  |
+| Netherite Armor   | Grimdark Pirate Variant	  | `pirate`   	  |
+| Netherite Armor   | Grimdark Royal Variant	  | `royal`   	  |
+| Netherite Armor   | Grimdark Samurai Variant	  | `samurai`     |
+| Netherite Armor   | Grimdark Viking Variant	  | `viking`      |
+| Shield		    | Grimdark Buckler			  | `buckler`     |
+| Shield		    | Grimdark Heater			  | `heater`      |
+| Shield		    | Grimdark Tower			  | `tower`       |
+| Shield		    | Grimdark Viking Diamond	  | `diamond`     |
+| Shield		    | Grimdark Viking Dragon	  | `dragon`      |
+| Shield		    | Grimdark Viking Golden	  | `golden`      |
+| Shield		    | Grimdark Viking Halves	  | `halves`      |
+| Shield		    | Grimdark Viking Iron	  	  | `iron`     	  |
+| Shield		    | Grimdark Viking Netherite	  | `netherite`   |
+| Shield		    | Grimdark Viking Quarters	  | `quarters`    |
+| Shield		    | Grimdark Viking Stone	      | `stone`       |
+| Shield		    | Grimdark Viking Wooden	  | `wooden`      |
 
 ## Contribute
 
@@ -178,7 +198,7 @@ If you wish to add textures you can let me know in Discord, or create a pull req
 
 ### Limitations
 
-Unfortunately the `CustomModelData` feature is quite limited and can only be applied to maps, pumpkins, and handheld items.
+Unfortunately the `CustomModelData` feature is quite limited and can only be applied to maps, pumpkins, and handheld items.  In order to add other item variations such as armor and elytra, we must use anvil renaming.
 
 ## Attribution
 
@@ -195,8 +215,6 @@ Unfortunately the `CustomModelData` feature is quite limited and can only be app
 [Steampunk Goggles](https://www.planetminecraft.com/texture-pack/steampunk-goggles-custom-3d-cosmetic-texture-pack/)
 
 [Servo Skull Texture](https://www.planetminecraft.com/mob-skin/servo-skull/)
-
-
 
 
 ### Weapons and Tools From
@@ -216,8 +234,19 @@ Unfortunately the `CustomModelData` feature is quite limited and can only be app
 [Polymath Wrench](https://www.planetminecraft.com/texture-pack/polymath-wrench-custom-3d-item-texture-pack/)
 
 
+### Armor From
+
+[Kal's Grimdark Armor Pack](https://www.planetminecraft.com/texture-pack/grimdark-armor/)
+
+
+### Shields From
+
+[Kal's Grimdark Battle Pack](https://www.planetminecraft.com/texture-pack/grimdark-battlepack/)
+
 
 ### Elytra From
+
+[Kal's Grimdark Armor Pack](https://www.planetminecraft.com/texture-pack/grimdark-armor/)
 
 [Da Vinci's Elytra](https://www.planetminecraft.com/texture-pack/da-vinci-s-elytra/)
 
