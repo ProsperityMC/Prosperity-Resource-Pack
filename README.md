@@ -10,9 +10,12 @@ You can also build manually or with [ResourcePacker](https://github.com/nixinova
 
 To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecraft/customization/custom-roleplay-data-datapack) datapack.
 
+There are also some items that can be obtained by renaming a vanilla item at an anvil and adding a keyword.  Elytra and armour variants can be obtained in this way.
+
+
 ### Textures
 
-| Item              | New Item Name               | Model    |
+| Item              | New Item               	  | Model    |
 | ----------------- | --------------------------- | -------- |
 | Netherite Sword   | Red Sword                   | `21400`  |
 | Netherite Sword   | Amethyest Encrusted Sword   | `21401`  |
@@ -146,6 +149,24 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Carved Pumpkin    | Servo Skull                 | `96562`  |
 | Carved Pumpkin    | Iron Servitor               | `96563`  |
 
+
+### Anvil Renaming
+
+ The following custom items are obtained by renaming the vanilla item at an anvil.  The new name can be anything, as long as it conteins the key string. Eg. "My davinci Elytra"
+
+| Item              | New Item             	  	  | Rename Key    |
+| ----------------- | --------------------------- | ------------- |
+| Elytra    		| da Vinci Elytra	          | `davinci`  	  |
+| Elytra    		| Grimdark Elytra	          | `grimdark`    |
+| Elytra    		| Trans Glider		          | `trans`    	  |
+| Elytra    		| Aether Wings		          | `aether`      |
+| Elytra    		| Feathered Elytra	          | `feathered`   |
+| Elytra    		| Eclipse Elytra	          | `eclipse`     |
+| Elytra    		| Dragonfly Elytra	          | `dragonfly`   |
+| Elytra    		| Ender Dragon Wings	      | `ender`   	  |
+| Elytra    		| Ladybug Elytra	      	  | `ladybug`     |
+| Elytra    		| Vex Elytra	      	  	  | `vex`     |
+
 ## Contribute
 
 If you wish to add textures you can let me know in Discord, or create a pull request for this repository. Please follow these guidelines when contributing:
@@ -193,4 +214,26 @@ Unfortunately the `CustomModelData` feature is quite limited and can only be app
 [Armadillo Drill](https://www.planetminecraft.com/texture-pack/armadillo-drill-custom-animated-3d-tool-texture-pack/)
 
 [Polymath Wrench](https://www.planetminecraft.com/texture-pack/polymath-wrench-custom-3d-item-texture-pack/)
+
+
+
+### Elytra From
+
+[Da Vinci's Elytra](https://www.planetminecraft.com/texture-pack/da-vinci-s-elytra/)
+
+[Trans Elytra](https://www.planetminecraft.com/texture-pack/trans-elytra/)
+
+[Aether Wings Texture Pack](https://www.planetminecraft.com/texture-pack/aether-wings-texture-pack/)
+
+[Feathered Elytra](https://www.planetminecraft.com/texture-pack/feathered-elytra/)
+
+[Eclipse's Better Elytras](https://www.planetminecraft.com/texture-pack/eclipse-s-better-elytras/)
+
+[Zubneo Dragonfly Elytra](https://www.planetminecraft.com/texture-pack/zubneo-dragonfly-elytra/)
+
+[Ender Dragon Wings - Elytra](https://www.planetminecraft.com/texture-pack/ender-dragon-wings-elytra/)
+
+[Ladybug Elytra & Wings](https://www.planetminecraft.com/texture-pack/ladybug-elytron-amp-wings/)
+
+[Vex Elytra](https://www.curseforge.com/minecraft/texture-packs/torrezx-vex-elytra/files/3966117)
 
