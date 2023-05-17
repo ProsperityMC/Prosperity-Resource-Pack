@@ -76,8 +76,8 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Netherite Axe     | Gear Axe                    |  `95506` |
 | Totem of Undying  | Axolotl of Undying          |  `94560` |
 | Totem of Undying  | Book of Undyinbg            |  `94561` |
-| Totem of Undying  | Carbon Totem                |  `94562` |
-| Totem of Undying  | Carbon Totem (Nether)       |  `94563` |
+| Totem of Undying  | Carbon Totem (Nether)       |  `94562` |
+| Totem of Undying  | Carbon Totem                |  `94563` |
 | Totem of Undying  | Netherite Totem (Diamond)   |  `94564` |
 | Totem of Undying  | Netherite Totem (Gold)      |  `94565` |
 | Totem of Undying  | Fancy Totem of Undying      |  `94566` |
@@ -88,62 +88,6 @@ To apply `CustomModelData` in game you can use the [Custom Roleplay Data](minecr
 | Totem of Undying  | Totem of Redstone           | `945611` |
 | Totem of Undying  | Soul Totem                  | `945612` |
 | Totem of Undying  | Melon Totem                 | `945613` |
-| Carved Pumpkin    | Bowler Hat 1                |  `96500` |
-| Carved Pumpkin    | Bowler Hat 2                |  `96501` |
-| Carved Pumpkin    | Bowler Hat 3                |  `96502` |
-| Carved Pumpkin    | Wide Brim Hat               |  `96503` |
-| Carved Pumpkin    | Beret                       |  `96504` |
-| Carved Pumpkin    | Straw Hat                   |  `96505` |
-| Carved Pumpkin    | Top Hat                     |  `96506` |
-| Carved Pumpkin    | Flat Cap                    |  `96507` |
-| Carved Pumpkin    | Cavalier                    |  `96508` |
-| Carved Pumpkin    | Cad Bane Hat                |  `96509` |
-| Carved Pumpkin    | Adventure Time              |  `96510` |
-| Carved Pumpkin    | Bee Hat                     |  `96511` |
-| Carved Pumpkin    | Brown Hat                   |  `96513` |
-| Carved Pumpkin    | Cake Daddy                  |  `96514` |
-| Carved Pumpkin    | Chicken Cap                 |  `96515` |
-| Carved Pumpkin    | Cowpoke Hide                |  `96516` |
-| Carved Pumpkin    | Creeper Hide Hat            |  `96517` |
-| Carved Pumpkin    | Donkey Hide Hood            |  `96518` |
-| Carved Pumpkin    | Ender Dragon Hide Hat       |  `96519` |
-| Carved Pumpkin    | Enderman Hide Hat           |  `96520` |
-| Carved Pumpkin    | Fox Hide Hat                |  `96521` |
-| Carved Pumpkin    | Georgia Devil               |  `96522` |
-| Carved Pumpkin    | Goat Skin Hat               |  `96523` |
-| Carved Pumpkin    | Grandpa's Hat               |  `96524` |
-| Carved Pumpkin    | Guardian Eye Mask           |  `96525` |
-| Carved Pumpkin    | Hoglin Hat                  |  `96526` |
-| Carved Pumpkin    | Horse Skull Mask            |  `96527` |
-| Carved Pumpkin    | Iron Golem Mask             |  `96528` |
-| Carved Pumpkin    | King Trisekiel              |  `96529` |
-| Carved Pumpkin    | Legendary Goat Hood         |  `96530` |
-| Carved Pumpkin    | Log Hood                    |  `96531` |
-| Carved Pumpkin    | Mining Helmet               |  `96532` |
-| Carved Pumpkin    | Moobloom Hide               |  `96533` |
-| Carved Pumpkin    | Mooshroom Hide              |  `96534` |
-| Carved Pumpkin    | Mossy Cap                   |  `96535` |
-| Carved Pumpkin    | Ocelot Hide Hood            |  `96536` |
-| Carved Pumpkin    | Phantom Hide                |  `96537` |
-| Carved Pumpkin    | Pillager Hat                |  `96538` |
-| Carved Pumpkin    | Plague Cleric               |  `96546` |
-| Carved Pumpkin    | Plauge Doctor               |  `96547` |
-| Carved Pumpkin    | Platypus Cap                |  `96548` |
-| Carved Pumpkin    | Polar Bear Hood             |  `96549` |
-| Carved Pumpkin    | Pufferfish Hide             |  `96550` |
-| Carved Pumpkin    | Ravager Hat                 |  `96551` |
-| Carved Pumpkin    | Salmon Scaled Hat           |  `96552` |
-| Carved Pumpkin    | Sculk Helsing               |  `96553` |
-| Carved Pumpkin    | Spectacles F                |  `96554` |
-| Carved Pumpkin    | Spectacles M                |  `96555` |
-| Carved Pumpkin    | Straw Hat                   |  `96556` |
-| Carved Pumpkin    | Van Helsing                 |  `96557` |
-| Carved Pumpkin    | Wither Skull Hat            |  `96558` |
-| Carved Pumpkin    | Zombie Horse Hood           |  `96559` |
-| Carved Pumpkin    | Carved Melon                |  `96560` |
-| Carved Pumpkin    | Steampunk Goggles           |  `96561` |
-| Carved Pumpkin    | Servo Skull                 |  `96562` |
-| Carved Pumpkin    | Iron Servitor               |  `96563` |
 
 </details>
 
